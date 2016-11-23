@@ -1,0 +1,79 @@
+.navigator{
+width: 1600px;
+background-color: yellow;
+}
+
+a{
+text-decoration: none;
+list-style: none;
+display: inline;	
+}
+
+li{
+	display: inline;
+	font-style: italic;
+}
+
+header{
+	font-size: 25px;
+}
+
+ul{
+	width:1300px;
+	text-align: right;
+	margin-top: 0;
+}
+
+.grid_4{
+	padding-left: -20px;
+	font-style: sans-serif;
+	margin-bottom: 20px;
+	background-color: white;
+	
+}
+
+.sociallinks{
+	width: 1600px;
+	background-color: green;
+	
+}
+
+.content{
+	font-size: 12px;
+	font-family: cursiva;
+	font-style: normal;
+	text-decoration-color: grey;
+	font-weight: normal;
+}
+
+footer{
+	background-color: grey;
+}
+
+img{
+	width: 95%;
+}
+
+.container{
+	margin-bottom: 100px;
+	background-color: green;
+	margin-top: 20px;
+}
+
+.options{
+	background-color: white;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	padding-right: 20px;
+}
+
+.grid_3{
+	padding-left: 200px;
+}
+
+.contentstyle{
+	font-size: 20px;
+	margin-right: 15px;
+	margin-left: 30px;
+}

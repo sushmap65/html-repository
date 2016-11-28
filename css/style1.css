@@ -19,7 +19,6 @@ h2{
 
 #content{
 	margin-top: 40px;
-	text-align: left;
 	
 }
 
@@ -86,37 +85,9 @@ footer{
 .tab-content{
 	margin-bottom: 30px;
 	background-color: white;
-	
 }
-
-.modal-dialog {
-  height: 80%;
-  padding-top:10%;
-  width: 40%;
-  vertical-align: middle;
-  position:absolute;
-}
-
-.modal-content {
-  height: 80% !important;
-  overflow:visible;
-  padding-bottom: 30px;
-  
-}
-
-.modal-body{
-	margin-bottom: 10px;
-	padding-bottom: 20px;
-
-}
-
-
 
 .content tab-content{
-	text-decoration-color: red;
-	margin-bottom: 30px;
-}
-
-section{
-	background-color: light-grey;
+	text-decoration-style: solid;
+	color :red;
 }
